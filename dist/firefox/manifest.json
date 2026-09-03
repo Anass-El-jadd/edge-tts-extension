@@ -13,7 +13,7 @@
   "offline_enabled": true,
   "incognito": "spanning",
   "action": {
-    "default_popup": "popup/index.html"
+    "default_popup": "sidepanel/index.html"
   },
   "background": {
     "scripts": ["background/bundle.js"]
